@@ -1,5 +1,3 @@
-# paper_reading
-
 
 # transformer相关
 ## transformer论文
