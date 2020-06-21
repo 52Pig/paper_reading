@@ -1,6 +1,5 @@
 
 # transformer相关
-## transformer论文
 
 ## transformer训练速度，时间复杂度改进
 ### Reformer
