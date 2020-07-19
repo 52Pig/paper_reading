@@ -1,8 +1,8 @@
 
 
-##################################
-########### Base Model ###########
-##################################
+
+=========== base model ===========
+
 
 # logistic regression
 https://github.com/52Pig/paper_reading/blob/master/logistic-regression-ch12.pdf
@@ -39,9 +39,9 @@ https://github.com/52Pig/paper_reading/blob/master/Deep%20Interest%20Network%20f
 
 
 
-====================================
-# ###### NLP ##################
-====================================
+===============NLP=====================
+
+
 # Language Model
 https://github.com/52Pig/paper_reading/blob/master/language-models.pdf
 
@@ -81,7 +81,7 @@ bert针对推理速度的优化
 https://github.com/52Pig/paper_reading/blob/master/2004.02178.pdf
 
 ##################################
-##### ACL 2020 优质论文 ##########
+       ACL 2020 优质论文 
 ##################################
 
 https://github.com/52Pig/paper_reading/blob/master/A%20Fine-grained%20Multimedia%20Knowledge%20Extraction%20System.2020.acl-demos.11.pdf
