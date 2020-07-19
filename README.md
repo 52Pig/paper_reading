@@ -3,7 +3,7 @@
 
 
 # Facebook gbdt+lr融合
-
+https://github.com/52Pig/paper_reading/blob/master/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf
 
 
 
