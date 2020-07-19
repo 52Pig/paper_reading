@@ -1,9 +1,41 @@
 
 
+##################################
+########### Base Model ###########
+##################################
 
 
-# Facebook gbdt+lr融合
+
+# FFM
+https://github.com/52Pig/paper_reading/blob/master/Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction.pdf
+
+# DeepFM
+https://github.com/52Pig/paper_reading/blob/master/DeepFM-0239.pdf
+
+
+# DIN 阿里深度兴趣网络
+https://github.com/52Pig/paper_reading/blob/master/Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.1706.06978.pdf
+
+
+# gbdt+lr 融合
 https://github.com/52Pig/paper_reading/blob/master/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf
+
+
+
+####################################
+############ NLP ###################
+####################################
+
+# DSSM
+
+
+
+# Hin2Vec
+https://github.com/52Pig/paper_reading/blob/master/2017.%20CIKM%20HIN2Vec.pdf
+
+
+# Seq2Seq
+https://github.com/52Pig/paper_reading/blob/master/1409.3215.seq2seqwithneuralnetwork.pdf
 
 
 # transformer训练速度，时间复杂度改进
@@ -19,6 +51,14 @@ https://github.com/52Pig/paper_reading/blob/master/2006.04768.pdf
 # fast_bert
 针对推理速度的优化
 https://github.com/52Pig/paper_reading/blob/master/2004.02178.pdf
+
+##################################
+############ ACL 2020 ############
+##################################
+
+https://github.com/52Pig/paper_reading/blob/master/A%20Fine-grained%20Multimedia%20Knowledge%20Extraction%20System.2020.acl-demos.11.pdf
+https://github.com/52Pig/paper_reading/blob/master/A%20System%20to%20Support%20the%20Analysis.2020.acl-demos.32.pdf
+
 
 
 
