@@ -32,7 +32,7 @@ https://github.com/52Pig/paper_reading/blob/master/Deep%20Interest%20Network%20f
 ####################################
 
 # DSSM
-
+https://github.com/52Pig/paper_reading/blob/master/cikm2013_DSSM_fullversion.pdf
 
 
 # Hin2Vec
