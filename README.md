@@ -4,8 +4,15 @@
 ########### Base Model ###########
 ##################################
 
+
+# random forest
+https://github.com/52Pig/paper_reading/blob/master/randomforest2001.pdf
+
 # GBDT
 https://github.com/52Pig/paper_reading/blob/master/GBDT-GreedyFuncApproxSS.pdf
+
+# xgboost
+https://github.com/52Pig/paper_reading/blob/master/xgboost_1603.02754.pdf
 
 # FFM
 https://github.com/52Pig/paper_reading/blob/master/Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction.pdf
@@ -37,7 +44,8 @@ https://github.com/52Pig/paper_reading/blob/master/cikm2013_DSSM_fullversion.pdf
 
 # Hin2Vec
 https://github.com/52Pig/paper_reading/blob/master/2017.%20CIKM%20HIN2Vec.pdf
-
+# Node2Vec
+https://github.com/52Pig/paper_reading/blob/master/node2vec%20Scalable%20Feature%20Learning%20for%20Networks.pdf
 
 # Seq2Seq
 https://github.com/52Pig/paper_reading/blob/master/1409.3215.seq2seqwithneuralnetwork.pdf
