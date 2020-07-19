@@ -83,25 +83,23 @@ https://github.com/52Pig/paper_reading/blob/master/2004.02178.pdf
 ##################################
        ACL 2020 优质论文 
 ##################################
-
-https://github.com/52Pig/paper_reading/blob/master/A%20Fine-grained%20Multimedia%20Knowledge%20Extraction%20System.2020.acl-demos.11.pdf
-https://github.com/52Pig/paper_reading/blob/master/A%20System%20to%20Support%20the%20Analysis.2020.acl-demos.32.pdf
-
 Don't Stop Pretraining: Adapt Language Models to Domains and Tasks.
 https://github.com/52Pig/paper_reading/blob/master/Beyond%20Accuracy%20Behavioral%20Testing%20of%20NLP%20Models%20with%20CheckList.2020.acl-main.442.pdf
+
+A Fine-grained Multimedia Knowledge Extraction System.
+https://github.com/52Pig/paper_reading/blob/master/A%20Fine-grained%20Multimedia%20Knowledge%20Extraction%20System.2020.acl-demos.11.pdf
+
+A System to Support the Analysis.
+https://github.com/52Pig/paper_reading/blob/master/A%20System%20to%20Support%20the%20Analysis.2020.acl-demos.32.pdf
+
 Climbing towards NLU On Meaning, Form, and Understanding in the Age of Data.2020.acl-main.463
 https://github.com/52Pig/paper_reading/blob/master/Climbing%20towards%20NLU%20On%20Meaning%2C%20Form%2C%20and%20Understanding%20in%20the%20Age%20of%20Data.2020.acl-main.463.pdf
+
 Don’t Stop Pretraining Adapt Language Models to Domains and Tasks.2020.acl-main.740
 https://github.com/52Pig/paper_reading/blob/master/Don%E2%80%99t%20Stop%20Pretraining%20Adapt%20Language%20Models%20to%20Domains%20and%20Tasks.2020.acl-main.740.pdf
+
 How Can We Accelerate Progress Towards Human-like Linguistic.2020.acl-main.465
 https://github.com/52Pig/paper_reading/blob/master/How%20Can%20We%20Accelerate%20Progress%20Towards%20Human-like%20Linguistic.2020.acl-main.465.pdf
-
-
-
-
-
-
-
 
 
 # 其他
@@ -110,5 +108,9 @@ https://github.com/52Pig/paper_reading/blob/master/Audience%20Expansion%20for%20
 
 Mastering the game of Go without.nature24270
 https://github.com/52Pig/paper_reading/blob/master/Mastering%20the%20game%20of%20Go%20without.nature24270.pdf
+
+
+
+
 
 
