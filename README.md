@@ -4,6 +4,11 @@
 ########### Base Model ###########
 ##################################
 
+# logistic regression
+https://github.com/52Pig/paper_reading/blob/master/logistic-regression-ch12.pdf
+
+# FPGrowgth
+https://github.com/52Pig/paper_reading/blob/master/fpgrowth.pdf
 
 # random forest
 https://github.com/52Pig/paper_reading/blob/master/randomforest2001.pdf
@@ -35,8 +40,13 @@ https://github.com/52Pig/paper_reading/blob/master/Deep%20Interest%20Network%20f
 
 
 ====================================
-============ NLP ===================
+# ###### NLP ##################
 ====================================
+# Language Model
+https://github.com/52Pig/paper_reading/blob/master/language-models.pdf
+
+# TextCNN
+https://github.com/52Pig/paper_reading/blob/master/textcnn_1408.5882.pdf
 
 # DSSM
 https://github.com/52Pig/paper_reading/blob/master/cikm2013_DSSM_fullversion.pdf
@@ -50,6 +60,8 @@ https://github.com/52Pig/paper_reading/blob/master/node2vec%20Scalable%20Feature
 # Seq2Seq
 https://github.com/52Pig/paper_reading/blob/master/1409.3215.seq2seqwithneuralnetwork.pdf
 
+# BERT
+https://github.com/52Pig/paper_reading/blob/master/bert_1810.04805.pdf
 
 # transformer训练速度，时间复杂度改进
 ## Reformer
