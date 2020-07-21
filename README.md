@@ -26,7 +26,8 @@ https://github.com/52Pig/paper_reading/blob/master/Field-aware%20Factorization%2
 https://github.com/52Pig/paper_reading/blob/master/DeepFM-0239.pdf
 
 
-
+# SVD paper
+https://github.com/52Pig/paper_reading/blob/master/SVDPaper.pdf
 
 # gbdt+lr 融合
 https://github.com/52Pig/paper_reading/blob/master/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf
