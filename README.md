@@ -19,6 +19,9 @@ https://github.com/52Pig/paper_reading/blob/master/GBDT-GreedyFuncApproxSS.pdf
 # xgboost
 https://github.com/52Pig/paper_reading/blob/master/xgboost_1603.02754.pdf
 
+# FM
+Rendle2010FM
+
 # FFM
 https://github.com/52Pig/paper_reading/blob/master/Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction.pdf
 
